@@ -1,0 +1,7 @@
+[package]
+name = "h2m-parser"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+h2m-parser-lib = { path = "../h2m-parser-lib" }
